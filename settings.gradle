@@ -1,0 +1,3 @@
+include ':mylibraryVerdadero'
+include ':app'
+rootProject.name = "mylibreriaV"
